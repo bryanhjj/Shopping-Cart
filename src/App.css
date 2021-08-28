@@ -24,13 +24,15 @@ nav {
   color: white;
   background-image: url('https://bo2.ggame.jp/en/images/common/bg_gnavi_pc_left.png ');
   background-repeat: repeat-x;
-  padding-bottom: 10px;
+  /* padding-bottom: 10px; */
+  padding-bottom: 5vh;
 }
 
 .links {
   color: white;
   text-decoration: none;
   font-weight: bold;
+  padding-bottom: 1vh;
 }
 
 .nav-links {
@@ -265,8 +267,10 @@ h4 {
 }
 
 .test-triangle {
-  width: 1500px;
-  height: 1000px;
+  /* width: 1500px;
+  height: 1000px; */
+  width: 120%;
+  height: 200%;
   background-image:
     linear-gradient(to bottom right, transparent 50%, black 0),
     linear-gradient(to top right, black 50%, transparent 0);
@@ -284,31 +288,28 @@ h4 {
   background-color: rgb(235, 151, 42);
   border: none;
   color: white;
-  padding: 15px 32px;
+  /* padding: 15px 32px; */
+  padding: 3vh 8vh;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 25px;
   box-shadow: 5px 10px rgb(129, 79, 12);
   position: absolute;
-  right: 200px;
-  top: 270px;
+  /* right: 200px;
+  top: 270px; */
+  right: 20vh;
+  top: 43vh;
 }
 
 .shop-now-btn:hover {
   background-color: rgb(25, 123, 204);
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 25px;
   box-shadow: 5px 10px rgb(9, 52, 92);
 }
 
 .home-content {
-  margin-top: 120px;
+  /* margin-top: 120px; */
+  margin-top: 20vh;
   text-align: left;
 }
 
