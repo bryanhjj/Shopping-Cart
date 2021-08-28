@@ -26,6 +26,7 @@ nav {
   background-repeat: repeat-x;
   /* padding-bottom: 10px; */
   padding-bottom: 5vh;
+  margin-top: 0;
 }
 
 .links {
@@ -53,6 +54,7 @@ nav {
   color: white;
   width: 100px;
   height: 30px;
+  margin: 0;
 }
 
 .cart-items {
