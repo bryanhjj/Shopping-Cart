@@ -20,7 +20,8 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  min-height: 14vh;
+  /* min-height: 14vh; */
+  height: 14vh;
   color: white;
   background-image: url('https://bo2.ggame.jp/en/images/common/bg_gnavi_pc_left.png ');
   background-repeat: repeat-x;
