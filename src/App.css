@@ -46,8 +46,9 @@ nav {
 /* for cart section */
 .openCart {
   position: absolute;
-  top: 4.5%;
-  right: 20px;
+  top: 4.4%;
+  right: 10vh;
+  /* right: 20px; */
   background-color: #1d1d1d;
   color: white;
   width: 100px;
