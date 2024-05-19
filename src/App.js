@@ -165,7 +165,7 @@ class App extends Component {
               handleQtyChange = {this.handleQtyChange} 
               handleAddToCart = {this.handleAddToCart}
             /> } />          
-            <Route exact path='/' component={Home} />
+            <Route exact path='/Shopping-Cart/' component={Home} />
           </Switch>
         </div>
       </Router>
