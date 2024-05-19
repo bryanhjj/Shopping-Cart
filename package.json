@@ -14,7 +14,7 @@
     "save-dev": "0.0.1-security",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://bryanhjj.github.io/",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
