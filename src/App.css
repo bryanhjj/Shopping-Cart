@@ -5,8 +5,8 @@ body, html {
 body {
   background-image: url('https://i.imgur.com/Fd4WEqr.jpeg');
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: auto auto;
+  background-size: cover;
+  background-attachment: fixed;
   height: 100%;
 }
 
